@@ -1,4 +1,4 @@
-FROM httpd:2.4.28
+FROM httpd:2.4.32
 
 MAINTAINER Sinan Goo 
 
